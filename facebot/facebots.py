@@ -108,3 +108,5 @@ if arkadas_kabul == 1:
 
 # Tarayıcıyı kapat
 browser.quit()
+
+#bu kod Mücahit(Blass) Tarafından Yazılmıştır.
